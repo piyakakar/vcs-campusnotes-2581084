@@ -24,3 +24,10 @@ Version Control System assignment.
 - Display a clear message when no notes are available.
 - Validate note titles before saving.
 - Prevent users from saving notes with empty titles.
+## How to Use CampusNotes
+
+1. Open the CampusNotes project.
+2. Create a new note.
+3. Add a suitable title and content.
+4. Organise the note using a category.
+5. Save the note for future reference.
