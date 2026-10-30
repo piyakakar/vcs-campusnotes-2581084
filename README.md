@@ -19,3 +19,8 @@ Version Control System assignment.
 - Organise notes using categories.
 - Maintain notes in one place for easy access.
 - Support collaboration through GitHub.
+## Note Handling Improvements
+
+- Display a clear message when no notes are available.
+- Validate note titles before saving.
+- Prevent users from saving notes with empty titles.
