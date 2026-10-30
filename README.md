@@ -13,13 +13,13 @@ and organizing academic notes.
 
 This project is created as part of the
 Version Control System assignment.
-## CampusNotes Features
+## Core Features
 
 - Create and save personal notes.
 - Organise notes using categories.
 - Maintain notes in one place for easy access.
 - Support collaboration through GitHub.
-## Note Handling Improvements
+## Note Validation
 
 - Display a clear message when no notes are available.
 - Validate note titles before saving.
