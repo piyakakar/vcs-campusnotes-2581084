@@ -31,3 +31,8 @@ Version Control System assignment.
 3. Add a suitable title and content.
 4. Organise the note using a category.
 5. Save the note for future reference.
+## Project Maintenance
+
+- Keep project documentation updated.
+- Review and organise project files regularly.
+- Maintain a clear and consistent Git commit history.
